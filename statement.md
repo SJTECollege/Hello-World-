@@ -6,8 +6,8 @@ You can interact with the code to see how it works and what causes the program t
 ```python runnable
 print("Hello World")
 ```
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Which is the correct format?]
+-[ ] Print("Hello World")
+-[ ] print(Hello World)
+-[ ] print("Hello World)
+-[x] print("Hello World")
