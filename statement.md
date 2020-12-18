@@ -1,6 +1,6 @@
 # Welcome!
 
-Add code so that the output is 'Hello World'
+A simple Python program that displays some text...
 
 ```python runnable
 print("Hello World")
