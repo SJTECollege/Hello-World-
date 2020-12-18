@@ -3,7 +3,7 @@
 Add code so that the output is 'Hello World'
 
 ```python runnable
-print()
+print("Hello World")
 ```
 
 # Advanced usage
