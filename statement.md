@@ -1,9 +1,9 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Add code so that the output is 'Hello World'
 
 ```python runnable
-print('Hello World!')
+print()
 ```
 
 # Advanced usage
