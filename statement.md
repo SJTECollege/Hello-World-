@@ -12,7 +12,7 @@ print("Hello World")
 -[ ] print("Hello World)
 -[x] print("Hello World")
 
-?[Exercise: What error is caused when the code is not written correctly?]
+?[Exercise: What error is caused when the rules of the language are not followed precisely?]
 -[ ] Logic error
 -[ ] Runtime error
 -[x] Syntax error
