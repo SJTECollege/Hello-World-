@@ -6,7 +6,7 @@ You can interact with the code to see how it works and what causes the program t
 ```python runnable
 print("Hello World")
 ```
-?[Which is the correct format?]
+?[Exercise: Which is the correct format?]
 -[ ] Print("Hello World")
 -[ ] print(Hello World)
 -[ ] print("Hello World)
