@@ -11,3 +11,9 @@ print("Hello World")
 -[ ] print(Hello World)
 -[ ] print("Hello World)
 -[x] print("Hello World")
+
+?[Exercise: What is the weight of the shortest path between C and E?]
+-[ ] 8
+-[ ] 9
+-[x] 5
+-[ ] 7
